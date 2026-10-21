@@ -36,8 +36,8 @@ PocketBase listens only on `127.0.0.1`. The only thing exposed to the network is
 
 ## Documentation
 
-- [Installation guide](docs/INSTALL.md): set it up step by step on Linux Mint or Ubuntu
-- [Cloud to local conversion](docs/CONVERSION.md): why and how the project moved off Vercel and Supabase to a local system
+- [Installation guide](Installation/Install.md): set it up step by step on Linux Mint or Ubuntu
+- [Cloud to local conversion](DOCS/Conversion.md): why and how the project moved off Vercel and Supabase to a local system
 
 ## What I learned
 
