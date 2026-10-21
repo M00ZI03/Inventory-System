@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+pb_data/
+pocketbase
+*.log
+*.xlsx
+*.csv
+.DS_Store
